@@ -1,1 +1,3 @@
-# P-S-Project
+# Probability & Statistics Project: [name]
+
+### Team [Number]: ...
